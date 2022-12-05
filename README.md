@@ -7,7 +7,7 @@
 ## 인프런 JPA
 * [JPA 학습 목차]( https://github.com/seuhong98/Study/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20JPA/README.md )  
 
-## 인프런 JPA
+## 도커
 * [도커 사용법 학습 목차]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/README.md )  
 
 
