@@ -1,5 +1,5 @@
 # Study  
-Vue.JS 발표 자료입니다.
+[인프런 JPA 학습] (https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
    
-* Vue.JS 스터디
+* 인프런 JPA 스터디
     1. [1회차](  )  
