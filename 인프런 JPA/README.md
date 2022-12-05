@@ -1,4 +1,4 @@
-# Study  
+# [Study](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
 [인프런 JPA 학습](https://www.inflearn.com/course/ORM-JPA-Basic/dashboard)
    
 * 인프런 JPA 스터디
