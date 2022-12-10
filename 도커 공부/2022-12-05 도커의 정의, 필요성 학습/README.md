@@ -1,6 +1,10 @@
 # 도커의 정의, 필요성 학습
     일시    : 2022-12-05
     
+    내용    : 1. 도커의 정의
+             2. 가상화 VS 컨테이너
+             3. 도커를 사용해야하는 이유(도커의 장점)
+    
    
     
 * [정리한 PPT]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/2022-12-05%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%2C%20%ED%95%84%EC%9A%94%EC%84%B1%20%ED%95%99%EC%8A%B5/%EB%8F%84%EC%BB%A4%EB%9E%80.pptx )  
