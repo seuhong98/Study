@@ -2,8 +2,8 @@
     일시    : 2022-12-10
     
     내용    : 1. SSH 보안 설정 (Root 로그인 금지, brute force 방지)
-              2. Pam 모듈 적용 (su 그룹 설정)
-              3. Crom tab 계정 설정(root만 가능)
+             2. Pam 모듈 적용 (su 그룹 설정)
+             3. Crom tab 계정 설정(root만 가능)
 
     
    
