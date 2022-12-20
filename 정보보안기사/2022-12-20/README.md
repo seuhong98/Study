@@ -7,7 +7,7 @@
     
    
     
-* [필기한 pdf]( 주소 )  
+* [필기한 pdf]( https://github.com/seuhong98/Study/blob/main/%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88%EA%B8%B0%EC%82%AC/2022-12-20/19~21%EA%B0%95%20%ED%95%84%EA%B8%B0.pdf )  
 
         
     
