@@ -6,7 +6,7 @@
     
    
     
-* [정리한 PPT]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/2022-12-12_2%20%EB%8F%84%EC%BB%A4%20%EC%A0%81%EC%9A%A9/%EB%8F%84%EC%BB%A4%20%EC%A0%81%EC%9A%A9.pptx )  
+* [정리한 PDF]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/2022-12-12_2%20%EB%8F%84%EC%BB%A4%20%EC%A0%81%EC%9A%A9/%EB%8F%84%EC%BB%A4%20%EC%A0%81%EC%9A%A9.pdf )  
 
 * [참고 자료 출처]
     1. [JAVA 설치 하기]( https://github.com/docker-library/repo-info/blob/master/repos/java/remote/openjdk-8-jdk-alpine.md )  

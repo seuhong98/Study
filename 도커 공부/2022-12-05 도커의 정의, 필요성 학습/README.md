@@ -7,7 +7,7 @@
     
    
     
-* [정리한 PPT]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/2022-12-05%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%2C%20%ED%95%84%EC%9A%94%EC%84%B1%20%ED%95%99%EC%8A%B5/%EB%8F%84%EC%BB%A4%EB%9E%80.pptx )  
+* [정리한 PDF]( https://github.com/seuhong98/Study/blob/main/%EB%8F%84%EC%BB%A4%20%EA%B3%B5%EB%B6%80/2022-12-05%20%EB%8F%84%EC%BB%A4%EC%9D%98%20%EC%A0%95%EC%9D%98%2C%20%ED%95%84%EC%9A%94%EC%84%B1%20%ED%95%99%EC%8A%B5/%EB%8F%84%EC%BB%A4%EB%9E%80.pdf )  
 
 * [참고 자료 출처]
     1. [도커란?]( https://awlhdla.tistory.com/152 )  
