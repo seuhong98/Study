@@ -7,7 +7,7 @@
     
    
     
-* [정리한 PPT]( https://github.com/seuhong98/Study/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20JPA/2022-12-20%20Section%201~3/Section%201~3.pdf )  
+* [정리한 PDF]( https://github.com/seuhong98/Study/blob/main/%EC%9D%B8%ED%94%84%EB%9F%B0%20JPA/2022-12-20%20Section%201~3/Section%201~3.pdf )  
 
         
     
