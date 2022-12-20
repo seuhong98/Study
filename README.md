@@ -13,3 +13,6 @@
 
 ## Toy 서버 구축
 * [서버 구축하기](https://github.com/seuhong98/Study/blob/main/%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95%20%EC%8B%A4%EC%8A%B5/README.md)
+
+## 정보보안기사 필기
+* [정보보안 공부](https://github.com/seuhong98/Study/blob/main/%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95%20%EC%8B%A4%EC%8A%B5/README.md)
